@@ -1,6 +1,5 @@
 # 💍 Comercio de Joyeria 
-Calculadora para piezas de oro y plata, conocer su valor real
-
+Calculadora de valor real para piezas de oro y plata
 
 <img width="538" height="648" alt="image" src="https://github.com/user-attachments/assets/6c71682e-b2c4-48e0-a4a8-e9f1a78e81ed" />
 
